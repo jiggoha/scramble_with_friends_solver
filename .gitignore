@@ -1,0 +1,5 @@
+scramble_with_friends
+trie
+*.o
+temporary.c
+
